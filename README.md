@@ -1,4 +1,3 @@
-```markdown
 # CS2 RPC
 
 ## Setup
