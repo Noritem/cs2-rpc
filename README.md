@@ -8,7 +8,6 @@
    ```bash
    git clone https://github.com/Noritem/cs2-rpc.git
    cd cs2-rpc
-   ```
 
 2. **Install dependencies:**
 
