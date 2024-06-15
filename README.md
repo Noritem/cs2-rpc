@@ -26,4 +26,4 @@ python cs2_rpc.py
 ## Contributing
 
 Feel free to contribute by forking the repository and submitting a pull request.
-```
+
